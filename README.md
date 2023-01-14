@@ -1,2 +1,3 @@
-# NombreFacil
-Este es un repositorio de prueba del modulo 2
+Oscar Lozano
+
+Este proyecto es una prueba de como crear un commit en la nube
